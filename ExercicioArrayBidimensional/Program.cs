@@ -4,7 +4,7 @@ string[,] alunos = new string[2,5];
 Console.WriteLine("\n Atribuindo dados a um Array de" +
     "string com 2 linhas e 5 colunas[2,5]");
 Console.WriteLine("\n{Maria,Paulo,Marta,Pedro,Carlos}");
-Console.WriteLine("{Silvia,Pedro,Alicia,Manoel,Paula}");
+Console.WriteLine("{Silvia,Paulo,Alicia,Manoel,Paula}");
 
 for (int i = 0; i < alunos.GetLength(0); i++)
 {
