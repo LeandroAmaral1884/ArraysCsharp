@@ -13,11 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseArray", "ClasseArray\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioArray", "ExercicioArray\ExercicioArray.csproj", "{BD329DF2-D3CA-4E55-B5D6-9AE5EF4B46B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBidimensional", "ArrayBidimensional\ArrayBidimensional.csproj", "{FA0919E8-0537-40CF-B272-CADBA9F4C3D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayBidimensional", "ArrayBidimensional\ArrayBidimensional.csproj", "{FA0919E8-0537-40CF-B272-CADBA9F4C3D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsDeMetodo", "ParamsDeMetodo\ParamsDeMetodo.csproj", "{A160DF35-8CB9-4E71-A26E-762F0DB802E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParamsDeMetodo", "ParamsDeMetodo\ParamsDeMetodo.csproj", "{A160DF35-8CB9-4E71-A26E-762F0DB802E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioArrayBidimensional", "ExercicioArrayBidimensional\ExercicioArrayBidimensional.csproj", "{C10F83A0-525E-42B5-AC0C-E3AF9B308515}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioArrayBidimensional", "ExercicioArrayBidimensional\ExercicioArrayBidimensional.csproj", "{C10F83A0-525E-42B5-AC0C-E3AF9B308515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayList", "ArrayList\ArrayList.csproj", "{ADE7E4EE-1BD9-4FC9-AFEB-AF4970A80EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListElementos", "ArrayListElementos\ArrayListElementos.csproj", "{1428C9CA-2B43-4AE3-BB47-B10DCB5C8A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{C10F83A0-525E-42B5-AC0C-E3AF9B308515}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C10F83A0-525E-42B5-AC0C-E3AF9B308515}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C10F83A0-525E-42B5-AC0C-E3AF9B308515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE7E4EE-1BD9-4FC9-AFEB-AF4970A80EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE7E4EE-1BD9-4FC9-AFEB-AF4970A80EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE7E4EE-1BD9-4FC9-AFEB-AF4970A80EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE7E4EE-1BD9-4FC9-AFEB-AF4970A80EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1428C9CA-2B43-4AE3-BB47-B10DCB5C8A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1428C9CA-2B43-4AE3-BB47-B10DCB5C8A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1428C9CA-2B43-4AE3-BB47-B10DCB5C8A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1428C9CA-2B43-4AE3-BB47-B10DCB5C8A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
