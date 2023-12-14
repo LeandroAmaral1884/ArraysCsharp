@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "ArrayList\Arra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListElementos", "ArrayListElementos\ArrayListElementos.csproj", "{1428C9CA-2B43-4AE3-BB47-B10DCB5C8A73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListRemoveElementos", "ArrayListRemoveElementos\ArrayListRemoveElementos.csproj", "{8B8B1FC8-43D8-4901-A984-A5E5B595A68C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayListRemoveElementos", "ArrayListRemoveElementos\ArrayListRemoveElementos.csproj", "{8B8B1FC8-43D8-4901-A984-A5E5B595A68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListOrdenacaoRemocao", "ArrayListOrdenacaoRemocao\ArrayListOrdenacaoRemocao.csproj", "{15E44D1C-4606-4E8C-B365-86684F5D313B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{8B8B1FC8-43D8-4901-A984-A5E5B595A68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B8B1FC8-43D8-4901-A984-A5E5B595A68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B8B1FC8-43D8-4901-A984-A5E5B595A68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E44D1C-4606-4E8C-B365-86684F5D313B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E44D1C-4606-4E8C-B365-86684F5D313B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E44D1C-4606-4E8C-B365-86684F5D313B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E44D1C-4606-4E8C-B365-86684F5D313B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
