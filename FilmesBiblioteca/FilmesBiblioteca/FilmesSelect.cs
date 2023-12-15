@@ -1,4 +1,4 @@
-﻿internal class Filme
+﻿public class Filme
 {
     public int Ano { get; set; }
     public double Avaliacao { get; set; }
